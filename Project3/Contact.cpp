@@ -20,7 +20,7 @@ Contact::Contact(string f, string h, string w, string m)
 
 Contact::~Contact()
 {
-	cout << "destructor";
+
 }
 
 string Contact::GetFIO()

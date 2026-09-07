@@ -21,6 +21,5 @@ class Contact {
 		void SetMobile(string f);
 		void Init(string f, string h, string w, string m);
 		void Print();
-	
 };
 
